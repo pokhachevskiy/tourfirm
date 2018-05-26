@@ -6,6 +6,7 @@ The description of the business-project is situated in description.odt.
 
 Tables.sql      - creating base tables
 Data_script.sql - filling Data
+Views.sql       - some views agreed with description.odt
 
-May be later there will be Views.
+PostgreSQL db creating script expected soon
 
