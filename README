@@ -1,0 +1,11 @@
+This is PostgreSQL example.
+
+There will be scripts for creating tables, filling them with demo information.
+The description of the business-project is situated in description.odt.
+
+
+Tables.sql      - creating base tables
+Data_script.sql - filling Data
+
+May be later there will be Views.
+
